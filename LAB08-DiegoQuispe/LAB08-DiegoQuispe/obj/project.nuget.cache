@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7yGknEPKQU=",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\Lab08-DiegoQuispe\\LAB08-DiegoQuispe\\LAB08-DiegoQuispe\\LAB08-DiegoQuispe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quiza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "C:\\Users\\quiza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
