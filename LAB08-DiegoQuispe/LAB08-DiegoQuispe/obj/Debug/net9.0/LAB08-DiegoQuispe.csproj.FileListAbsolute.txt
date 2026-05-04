@@ -30,3 +30,4 @@ D:\Repositorios\Lab08-DiegoQuispe\LAB08-DiegoQuispe\LAB08-DiegoQuispe\obj\Debug\
 D:\Repositorios\Lab08-DiegoQuispe\LAB08-DiegoQuispe\LAB08-DiegoQuispe\obj\Debug\net9.0\LAB08-DiegoQuispe.pdb
 D:\Repositorios\Lab08-DiegoQuispe\LAB08-DiegoQuispe\LAB08-DiegoQuispe\obj\Debug\net9.0\LAB08-DiegoQuispe.genruntimeconfig.cache
 D:\Repositorios\Lab08-DiegoQuispe\LAB08-DiegoQuispe\LAB08-DiegoQuispe\obj\Debug\net9.0\ref\LAB08-DiegoQuispe.dll
+D:\Repositorios\Lab08-DiegoQuispe\LAB08-DiegoQuispe\LAB08-DiegoQuispe\obj\Debug\net9.0\LAB08-DiegoQuispe.sourcelink.json
