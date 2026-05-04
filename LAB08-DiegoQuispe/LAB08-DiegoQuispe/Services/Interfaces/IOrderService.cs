@@ -1,14 +1,11 @@
 using LAB08_DiegoQuispe.Dtos;
-using LAB08_DiegoQuispe.Models;
 
-namespace LAB08_DiegoQuispe.Repositories.Interfaces;
+namespace LAB08_DiegoQuispe.Services.Interfaces;
 
-public interface IOrderRepository
+public interface IOrderService
 {
-
     Task<List<OrderDetailDto>> GetProductsByOrderAsync(int orderId);
     Task<int> GetTotalQuantityByOrderAsync(int orderId);
     Task<List<OrderDto>> GetAfterDateAsync(DateTime date);
-
     Task<List<OrderDetailDto>> GetAllWithDetailsAsync();
 }

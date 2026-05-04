@@ -1,12 +1,10 @@
 using LAB08_DiegoQuispe.Dtos;
-using LAB08_DiegoQuispe.Models;
 
-namespace LAB08_DiegoQuispe.Repositories.Interfaces;
+namespace LAB08_DiegoQuispe.Services.Interfaces;
 
-public interface IClientRepository 
+public interface IClientService
 {
     Task<List<ClientDto>> GetByNameAsync(string name);
     Task<ClientOrdersDto?> GetTopClientAsync();
     Task<List<string>> GetClientsByProductAsync(int productId);
-    
 }

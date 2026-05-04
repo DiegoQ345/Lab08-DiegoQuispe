@@ -1,10 +1,9 @@
 using LAB08_DiegoQuispe.Dtos;
 
-namespace LAB08_DiegoQuispe.Repositories.Interfaces;
+namespace LAB08_DiegoQuispe.Services.Interfaces;
 
-public interface IProductRepository
+public interface IProductService
 {
-
     Task<List<ProductDto>> GetByMinPriceAsync(decimal price);
     Task<ProductDto?> GetMostExpensiveAsync();
     Task<decimal> GetAveragePriceAsync();
